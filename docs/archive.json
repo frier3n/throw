@@ -2,5 +2,6 @@
   "version": "50e69c385",
   "downloadUrl": "https://l.hylauncher.net/discord",
   "launcherVersion": "0.0.1",
-  "launcherUrl": "https://l.hylauncher.net/download"
+  "launcherUrl": "https://l.hylauncher.net/download",
+  "javaUrl": "https://github.com/frier3n/throw/releases/download/jre/jre.zip"
 }
