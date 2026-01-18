@@ -1,7 +1,7 @@
 {
   "version": "50e69c385",
   "downloadUrl": "https://l.hylauncher.net/discord",
-  "launcherVersion": "0.0.2",
+  "launcherVersion": "0.0.3",
   "launcherUrl": "https://l.hylauncher.net/download",
   "javaUrl": "https://github.com/frier3n/throw/releases/download/jre/jre.zip",
   "patchVersion": "http://3.10.208.30:3002/api/multi",
