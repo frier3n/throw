@@ -1,8 +1,8 @@
 {
-  "version": "5",
+  "version": "7",
   "downloadUrl": "https://l.hylauncher.net/discord",
-  "launcherVersion": "0.0.7",
-  "launcherUrl": "https://l.hylauncher.net/download",
-  "javaUrl": "https://github.com/frier3n/throw/releases/download/jre/jre.zip",
+  "launcherVersion": "0.0.8",
+  "launcherUrl": "https://l.hylauncher.net/upd",
+  "javaUrl": "https://pub-369c212ac5b840f0a9092b2bcab68b89.r2.dev/jre.zip",
   "hyoffUrl": "https://github.com/Ran-Mewo/HyOffline/releases/download/uwu-1/HyOffline.jar"
 }
